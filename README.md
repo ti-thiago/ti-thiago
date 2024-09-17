@@ -20,7 +20,7 @@
 
 📫 **Como me encontrar**:
 - [GitHub](https://https://github.com/ti-thiago)
-- [LinkedIn](https://www.linkedin.com/in/thiagofelipe-ti/))
+- [LinkedIn](https://www.linkedin.com/in/thiagofelipe-ti/)
 
 🚀 **Projetos e Contribuições**: Confira meus repositórios para ver alguns dos projetos em que estou trabalhando e contribuições que fiz ao longo da minha jornada de desenvolvedor.
 
