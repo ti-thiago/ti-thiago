@@ -19,7 +19,7 @@
 ⚡ **Curiosidades**: Sou apaixonado por resolver problemas complexos e por colaborar em projetos que desafiam minha capacidade técnica. Minha abordagem é focada em entregar software de qualidade, sempre visando performance, escalabilidade e a melhor experiência do usuário.
 
 📫 **Como me encontrar**:
-- [GitHub](https://https://github.com/ti-thiago)
+- [GitHub](https://github.com/ti-thiago)
 - [LinkedIn](https://www.linkedin.com/in/thiagofelipe-ti/)
 
 🚀 **Projetos e Contribuições**: Confira meus repositórios para ver alguns dos projetos em que estou trabalhando e contribuições que fiz ao longo da minha jornada de desenvolvedor.
